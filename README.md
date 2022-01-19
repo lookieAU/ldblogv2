@@ -1,1 +1,1 @@
-# ldblogv2
+# Lookie's Drama Blog version 2 xd
